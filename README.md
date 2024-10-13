@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/_cyberguardian_" target="blank"><img src="https://img.shields.io/twitter/follow/_cyberguardian_?logo=twitter&style=for-the-badge" alt="_cyberguardian_" /></a> </p>
 
-- 🌱 I’m currently learning **CCNA, IDS/IPS, SOAR/SIEM tools and Firewalls**
+- 🌱 I’m currently learning about **Firewalls**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1mOwXnRnzqPQmxKD5QRiZ8_xPxYavsqC-?usp=drive_link](https://drive.google.com/drive/folders/1mOwXnRnzqPQmxKD5QRiZ8_xPxYavsqC-?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1ULAzJMLA_Wfwp1497-tx2oUb8DeDxBgf/view?usp=drive_link)
+
+- 👨‍💻 All of my projects are available [here](https://github.com/cyberguardianx/Portfolio.git)
 
 - 📫 How to reach me **cyberguardian777@proton.me**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ULAzJMLA_Wfwp1497-tx2oUb8DeDxBgf/view?usp=drive_link](https://drive.google.com/file/d/1ULAzJMLA_Wfwp1497-tx2oUb8DeDxBgf/view?usp=drive_link)
-
-- ⚡ Fun fact **I love to explore new stuff.**
+- ⚡ Fun fact **I love to explore new stuff**
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
