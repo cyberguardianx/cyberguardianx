@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_cyberguardian_" target="blank"><img src="https://img.shields.io/twitter/follow/_cyberguardian_?logo=twitter&style=for-the-badge" alt="_cyberguardian_" /></a> </p>
 
-- 🌱 I’m currently learning about **Firewalls**
+- 🌱 I’m currently learning about **Windows Server 2019**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1ULAzJMLA_Wfwp1497-tx2oUb8DeDxBgf/view?usp=drive_link)
 
