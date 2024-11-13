@@ -11,29 +11,18 @@ To leverage my experience in IT support and ongoing education in Cloud and Secur
 
 ## Skills
 
-| Skill                                             | Associated Project         |
-|---------------------------------------------------|----------------------------|
-| SQL and Linux Project                             | <a href= "https://github.com/cyberguardianx/Portfolio/tree/a23c72457d28b805c03a758bac47b59097ada9d0/SQL%20and%20Linux%20Project"> Project Details </a>
-| SIEM Implementation and Log Analysis              | <a href="https://google.com">Project Details</a>|
-| Network Traffic Monitoring and Attack Detection   | <a href="https://google.com">Project Details</a>|
-| Security Automation with Shuffle SOAR             | Project Details|
-| Incident Response Planning and Execution          | Project Details|
-| Case Management with TheHive                      | Project Details|
-| Scripting and Automation for Threat Mitigation    | Project Details|
+| Skill                                                |     Status         | Associated Project                                                                         |
+|------------------------------------------------------|--------------------|--------------------------------------------------------------------------------------------|
+| Network Traffic Analysis                             |    🚧 In Progress | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/Network%20Traffic%20Analysis%20with%20Wireshark">Project Details</a>|
+| Intrusion Detection & Prevention                     |    📝 Planned     | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/Intrusion%20Detection%20%26%20Prevention%20System%20Implementation">Project Details</a>|
+| Web Application Security                             |    📝 Planned     | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/Web%20Application%20Security%20Analysis">Project Details</a>|
+| EDR Deployment                                       |    📝 Planned     | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/EDR%20Deployment">Project Details</a>|
+| Threat Hunting                                       |    📝 Planned     | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/Threat%20Hunting%20Operations">Project Details</a>|
+| Windows Security                                     |    📝 Planned     | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/Windows%20Security%20Automation">Project Details</a>|
+| SIEM Implementation                                  |    📝 Planned     | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/SIEM%20Development">Project Details</a>|
+| Framework Implementation (MITRE ATT&CK, NIST CSF)    |    📝 Planned     | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/Threat%20Detection%20Framework">Project Details</a>|
+| Security Automation                                  |    📝 Planned     | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/SOAR%20Implementation">Project Details</a>|
 
-## Projects
-
-| Project | Status | Project Link |
-|---------|--------|-----------------|
-| Wireshark Analysis | 🚧 In Progress | - |
-| Web App Security | 📝 Planned | - |
-| PowerShell Security | 📝 Planned | - |
-| IDS with ELK | 📝 Planned | - |
-| MITRE Implementation | 📝 Planned | - |
-| SOAR Automation | 📝 Planned | - |
-| SIEM Use Cases | 📝 Planned | - |
-| Threat Hunting | 📝 Planned | - |
-| EDR Implementation | 📝 Planned | - |
 
 ## Tools
 
@@ -72,6 +61,14 @@ To leverage my experience in IT support and ongoing education in Cloud and Secur
     <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+
+</div>
+
+### Security Frameworks and Standards
+<div>
+    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-005DAA?style=for-the-badge&logo=MITRE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NIST%20CSF-5A6978?style=for-the-badge&logo=NIST&logoColor=white" />
+
 
 </div>
 
