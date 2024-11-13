@@ -21,6 +21,19 @@ To leverage my experience in IT support and ongoing education in Cloud and Secur
 | Case Management with TheHive                      | Project Details|
 | Scripting and Automation for Threat Mitigation    | Project Details|
 
+## Projects
+
+| Project | Status | Project Link |
+|---------|--------|-----------------|
+| Wireshark Analysis | 🚧 In Progress | - |
+| Web App Security | 📝 Planned | - |
+| PowerShell Security | 📝 Planned | - |
+| IDS with ELK | 📝 Planned | - |
+| MITRE Implementation | 📝 Planned | - |
+| SOAR Automation | 📝 Planned | - |
+| SIEM Use Cases | 📝 Planned | - |
+| Threat Hunting | 📝 Planned | - |
+| EDR Implementation | 📝 Planned | - |
 
 ## Tools
 
