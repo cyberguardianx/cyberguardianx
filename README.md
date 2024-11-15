@@ -8,6 +8,7 @@ I am an undergraduate student currently pursuing a Bachelor's in Computer Applic
 
 To leverage my experience in IT support and ongoing education in Cloud and Security to contribute effectively in a cybersecurity role. I aim to utilize my problem-solving skills and technical knowledge to enhance security measures, safeguard data, and support the technology goals of the organization.
 
+![TryHackMe Stats](https://raw.githubusercontent.com/CyberGuardianx/CyberGuardianx/master/assets/thm_propic.png)
 
 ## Skills
 
