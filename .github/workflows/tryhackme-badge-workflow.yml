@@ -2,21 +2,18 @@ name: TryHackMe Update Badge
 
 on:
   schedule:
-    # Run every 24 hours at midnight
+    # Make it run every 24 hour
     - cron: '0 0 * * *'
   workflow_dispatch:
-
 jobs:
   tryhackme-badge-update:
-    name: Update TryHackMe Badge
+    name: Update this repo's tryhackme badge with the latest tryhackme image badge
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Update TryHackMe Badge
-        uses: CyberGuardianx/tryhackme-badge-workflow@main
+      - uses: actions/checkout@v2
+      - uses: CyberGuardianx/tryhackme-badge-workflow@main
         with:
-          # Replace with your TryHackMe username
+          # Replace with your tryhackme username
           username: "CyberGuardianx"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Do not paste your github token here - this is a placeholder
+                                                  # and will pull your github token automatically
