@@ -1,6 +1,11 @@
 
 # Hello, I'm Rohit Saini
 <a href="https://www.linkedin.com/in/rohitsaini-cyberguardian/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/r/p/CyberGuardianx"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+<a href="https://app.letsdefend.io/user/cyberguardianx"><img src="https://img.shields.io/badge/-Let's%20Defend-0A4D8D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAw0lEQVQ4T6WT0Q2DMBRF37dhEkicEIisIGEk6gwBDgECo8AEHoNiNF4g5ACFZ8ApGQJlTCx5v7I3efw03e29bGfbzMUtKnwoJfQX3BAvsAvYP4AcyzAbmgI+AT3ADWgXNfxeBoA8+SM0FlYBzdyiBYGg5JmC1GuGbgAeGuLGQ9oA3CBwDJ8V6GdpH6X0CtbnG9uTv9E/ybU5AzHgPOQQuYAuwEGoVuK+Y82ctJPLTHDAAAAABJRU5ErkJggg==&logoColor=white" /></a>
+
+
+
 
 I am an undergraduate student currently pursuing a Bachelor's in Computer Applications, specializing in Cloud and Security. I have a profound interest in technology and a strong dedication to solving complex problems, helping individuals and companies achieve their goals.
 
