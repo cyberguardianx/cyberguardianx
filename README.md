@@ -31,6 +31,19 @@ To leverage my experience in IT support and ongoing education in Cloud and Secur
 
 ## Tools
 
+### Virtualization Tools
+<div>
+    <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hyper%20V-0082FC?style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### Cloud Platforms
+<div>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -38,7 +51,9 @@ To leverage my experience in IT support and ongoing education in Cloud and Secur
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Fortinet-DA291C?style=for-the-badge&logo=Fortinet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-007EC6?style=for-the-badge&logo=Palo-Alto-Networks&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0097C1?style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-FF0000?style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sophos-1D7BFF?style=for-the-badge&logo=Sophos&logoColor=white" />
 
 </div>
 
@@ -81,5 +96,8 @@ To leverage my experience in IT support and ongoing education in Cloud and Secur
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jetking%20Certificate-005B99?style=for-the-badge&logo=Jetking&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCNA-0060A9?style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
