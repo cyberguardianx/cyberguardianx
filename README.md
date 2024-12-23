@@ -16,20 +16,6 @@ To leverage my experience in IT support and ongoing education in Cloud and Secur
 
 ## Skills
 
-| Skill                                                |     Status         | Associated Project                                                                         |
-|------------------------------------------------------|--------------------|--------------------------------------------------------------------------------------------|
-| Network Traffic Analysis                             |    🚧 In Progress | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/Network%20Traffic%20Analysis%20with%20Wireshark">Project Details</a>|
-| Intrusion Detection & Prevention                     |    📝 Planned     | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/Intrusion%20Detection%20%26%20Prevention%20System%20Implementation">Project Details</a>|
-| Web Application Security                             |    📝 Planned     | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/Web%20Application%20Security%20Analysis">Project Details</a>|
-| EDR Deployment                                       |    📝 Planned     | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/EDR%20Deployment">Project Details</a>|
-| Threat Hunting                                       |    📝 Planned     | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/Threat%20Hunting%20Operations">Project Details</a>|
-| Windows Security                                     |    📝 Planned     | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/Windows%20Security%20Automation">Project Details</a>|
-| SIEM Implementation                                  |    📝 Planned     | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/SIEM%20Development">Project Details</a>|
-| Framework Implementation (MITRE ATT&CK, NIST CSF)    |    📝 Planned     | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/Threat%20Detection%20Framework">Project Details</a>|
-| Security Automation                                  |    📝 Planned     | <a href="https://github.com/cyberguardianx/Portfolio/tree/4dafe1528ac6e8c46e4fe128f81b5c891a9be84d/SOAR%20Implementation">Project Details</a>|
-
-
-## Tools
 
 ### Virtualization Tools
 <div>
@@ -47,30 +33,25 @@ To leverage my experience in IT support and ongoing education in Cloud and Secur
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Fortinet-DA291C?style=for-the-badge&logo=Fortinet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-007EC6?style=for-the-badge&logo=Palo-Alto-Networks&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0097C1?style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-FF0000?style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sophos-1D7BFF?style=for-the-badge&logo=Sophos&logoColor=white" />
 
 </div>
 
-### Endpoint
+### Security
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-SentinelOne-0033CC?style=for-the-badge&logo=SentinelOne&logoColor=white" />
     <img src="https://img.shields.io/badge/-CrowdStrike%20Falcon-E95723?style=for-the-badge&logo=CrowdStrike&logoColor=white" />
-
-</div>
-
-### SIEM
-<div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-IBM%20QRadar-1F70C1?style=for-the-badge&logo=IBM&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-FF0000?style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 
 </div>
 
