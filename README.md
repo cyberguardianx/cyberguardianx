@@ -16,6 +16,10 @@ To leverage my experience in IT support and ongoing education in Cloud and Secur
 
 ## Skills
 
+### IT & Networking
+<div>  
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0097C1?style=for-the-badge&logo=Cisco&logoColor=white" />
+</div>
 
 ### Virtualization Tools
 <div>
@@ -30,29 +34,34 @@ To leverage my experience in IT support and ongoing education in Cloud and Secur
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
 </div>
 
-### Network
+### Network Security & Monitoring Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-FF0000?style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+</div>
+    
+### Firewall & Network Protection Solutions
+<div>
     <img src="https://img.shields.io/badge/-Fortinet-DA291C?style=for-the-badge&logo=Fortinet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-007EC6?style=for-the-badge&logo=Palo-Alto-Networks&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0097C1?style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sophos-1D7BFF?style=for-the-badge&logo=Sophos&logoColor=white" />
-
 </div>
 
-### Security
+### Endpoint Protection & Response (EDR)
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-SentinelOne-0033CC?style=for-the-badge&logo=SentinelOne&logoColor=white" />
     <img src="https://img.shields.io/badge/-CrowdStrike%20Falcon-E95723?style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+</div>
+
+### Security Information and Event Management (SIEM)
+<div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-IBM%20QRadar-1F70C1?style=for-the-badge&logo=IBM&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-FF0000?style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-
 </div>
 
 ### Programming and Scripting
@@ -62,15 +71,12 @@ To leverage my experience in IT support and ongoing education in Cloud and Secur
     <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-
 </div>
 
 ### Security Frameworks and Standards
 <div>
     <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-005DAA?style=for-the-badge&logo=MITRE&logoColor=white" />
     <img src="https://img.shields.io/badge/-NIST%20CSF-5A6978?style=for-the-badge&logo=NIST&logoColor=white" />
-
-
 </div>
 
 
