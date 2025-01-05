@@ -4,6 +4,13 @@
 <a href="https://tryhackme.com/r/p/CyberGuardianx"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <a href="https://app.letsdefend.io/user/cyberguardianx"><img src="https://img.shields.io/badge/-Let's%20Defend-0A4D8D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAw0lEQVQ4T6WT0Q2DMBRF37dhEkicEIisIGEk6gwBDgECo8AEHoNiNF4g5ACFZ8ApGQJlTCx5v7I3efw03e29bGfbzMUtKnwoJfQX3BAvsAvYP4AcyzAbmgI+AT3ADWgXNfxeBoA8+SM0FlYBzdyiBYGg5JmC1GuGbgAeGuLGQ9oA3CBwDJ8V6GdpH6X0CtbnG9uTv9E/ybU5AzHgPOQQuYAuwEGoVuK+Y82ctJPLTHDAAAAABJRU5ErkJggg==&logoColor=white" /></a>
 
+I am an undergraduate student currently pursuing a Bachelor's in Computer Applications, specializing in Cloud and Security. I have a profound interest in technology and a strong dedication to solving complex problems, helping individuals and companies achieve their goals.
+
+## Objective
+
+To leverage my experience in IT support and ongoing education in Cloud and Security to contribute effectively in a cybersecurity role. I aim to utilize my problem-solving skills and technical knowledge to enhance security measures, safeguard data, and support the technology goals of the organization.
+
+
 ## Projects
 
 | Projects Name                                        |     Status         | Associated Project link                                                                    |
@@ -15,11 +22,6 @@
 | Threat Hunting                                       |    📝 Planned     | <a href="  ">Project Details</a>|
 
 
-I am an undergraduate student currently pursuing a Bachelor's in Computer Applications, specializing in Cloud and Security. I have a profound interest in technology and a strong dedication to solving complex problems, helping individuals and companies achieve their goals.
-
-## Objective
-
-To leverage my experience in IT support and ongoing education in Cloud and Security to contribute effectively in a cybersecurity role. I aim to utilize my problem-solving skills and technical knowledge to enhance security measures, safeguard data, and support the technology goals of the organization.
 
 
 ## Skills
