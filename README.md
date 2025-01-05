@@ -13,13 +13,13 @@ To leverage my experience in IT support and ongoing education in Cloud and Secur
 
 ## Projects
 
-| Projects Name                                        |     Status         | Associated Project link                                                                    |
-|------------------------------------------------------|--------------------|--------------------------------------------------------------------------------------------|
-| Audit                                                |    🚧 In Progress | <a href="  ">Project Details</a>|
-| Intrusion Detection & Prevention                     |    📝 Planned     | <a href="  ">Project Details</a>|
-| Web Application Security                             |    📝 Planned     | <a href="  ">Project Details</a>|
-| EDR Deployment                                       |    📝 Planned     | <a href="  ">Project Details</a>|
-| Threat Hunting                                       |    📝 Planned     | <a href="  ">Project Details</a>|
+| Projects Name                                        |     Status         |  Completion Date  | Associated Project link                                                                    |
+|------------------------------------------------------|--------------------|-------------------|---------------------------------------------------------------------|
+| Audit                                                |    🚧 In Progress |     31/02/2025     | <a href="https://github.com/cyberguardianx/Portfolio/tree/main/Audit"> Project Details </a> |
+| Intrusion Detection & Prevention                     |    📝 Planned     |     30/04/2025     | <a href="  ">Project Details</a>|
+| Web Application Security                             |    📝 Planned     |     31/07/2025     | <a href="  ">Project Details</a>|
+| EDR Deployment                                       |    📝 Planned     |     31/09/2025     | <a href="  ">Project Details</a>|
+| Threat Hunting                                       |    📝 Planned     |     31/12/2025     | <a href="  ">Project Details</a>|
 
 
 
