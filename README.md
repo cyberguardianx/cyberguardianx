@@ -95,6 +95,4 @@ To leverage my experience in IT support and ongoing education in Cloud and Secur
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Jetking%20Certificate-005B99?style=for-the-badge&logo=Jetking&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CCNA-0060A9?style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
