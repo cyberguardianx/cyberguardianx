@@ -50,9 +50,52 @@ Passionate about managing large-scale Linux environments, automating repetitive 
 ---
 
 ## 📂 Featured Projects  
+
+### 🟢 Foundation Projects  
 - 🔹 **[Automation Scripts](https://github.com/your-github-username/automation-scripts)** – Bash, PowerShell & Python scripts for Linux/Windows administration.  
-- 🔹 **[Ansible Playbooks](https://github.com/your-github-username/ansible-playbooks)** – Pre-configured automation playbooks.  
-- 🔹 **[Monitoring Setup](https://github.com/your-github-username/monitoring-setup)** – Tools and configs for system monitoring.  
+- 🔹 **[User & Group Management Automation](https://github.com/your-github-username/user-group-automation)** – Automating user creation, permissions, and SSH key distribution.  
+- 🔹 **[Linux Hardening Scripts](https://github.com/your-github-username/linux-hardening)** – Security scripts and Ansible playbooks for SSH hardening, firewall rules, and log rotation.  
+- 🔹 **[Automated Backup System](https://github.com/your-github-username/backup-system)** – Automated local and remote backup & restore using Rsync/cron.  
+
+---
+
+### 🟡 Intermediate Projects  
+- 🔹 **[Ansible Playbooks](https://github.com/your-github-username/ansible-playbooks)** – Pre-configured playbooks for server setup and automation.  
+- 🔹 **[Containerized Application Deployment](https://github.com/your-github-username/containerized-deployment)** – Deploying applications with Docker & Docker Compose, extended with Kubernetes manifests.  
+- 🔹 **[System Monitoring with Prometheus & Grafana](https://github.com/your-github-username/prometheus-grafana-monitoring)** – Full-stack monitoring for servers, services, and metrics visualization.  
+- 🔹 **[Log Management with ELK Stack](https://github.com/your-github-username/elk-stack-logging)** – Centralized log collection and analysis with Elasticsearch, Logstash, and Kibana.  
+- 🔹 **[CI/CD Pipeline](https://github.com/your-github-username/ci-cd-pipeline)** – Jenkins/GitHub Actions pipeline for automated build, test, and deployment.  
+
+---
+
+### 🔵 Advanced Projects (Self-Hosted Infrastructure)  
+- 🔹 **[Private VPN & Proxy Server](https://github.com/your-github-username/vpn-proxy-server)** – Secure self-hosted VPN with integrated proxy capabilities.  
+- 🔹 **[Cloud Storage (Nextcloud/OwnCloud)](https://github.com/your-github-username/cloud-storage)** – Self-hosted cloud storage and file sync solution.  
+- 🔹 **[Mail Server](https://github.com/your-github-username/mail-server)** – Self-hosted secure mail server with spam filtering.  
+- 🔹 **[Password Manager Vault](https://github.com/your-github-username/password-vault)** – Self-hosted password management solution.  
+- 🔹 **[Private Pastebin](https://github.com/your-github-username/private-pastebin)** – Self-hosted code snippet and text-sharing tool.  
+- 🔹 **[Self-Hosted Analytics](https://github.com/your-github-username/analytics-server)** – Privacy-friendly analytics platform (alternative to Google Analytics).  
+- 🔹 **[Self-Hosted Search Engine](https://github.com/your-github-username/search-engine)** – Host your own lightweight search engine.  
+- 🔹 **[Git Server](https://github.com/your-github-username/git-server)** – Self-hosted Git service for code version control.  
+- 🔹 **[Static Site Generator + CDN](https://github.com/your-github-username/static-site-generator)** – Automated static site deployment with global CDN integration.  
+- 🔹 **[Document Collaboration](https://github.com/your-github-username/doc-collaboration)** – Self-hosted office suite for collaborative editing.  
+- 🔹 **[Media Streaming Server](https://github.com/your-github-username/media-server)** – Self-hosted media library with streaming support.  
+- 🔹 **[Photo Management](https://github.com/your-github-username/photo-management)** – Private photo storage and gallery management.  
+- 🔹 **[Home Assistant](https://github.com/your-github-username/home-assistant)** – Smart home automation and monitoring system.  
+
+---
+
+### 🔴 Expert-Level Projects (Enterprise & Security)  
+- 🔹 **[Intrusion Detection System (IDS)](https://github.com/your-github-username/intrusion-detection)** – Host and network intrusion detection using Snort/Suricata.  
+- 🔹 **[DNS-over-HTTPS/TLS Resolver (Pi-hole / AdGuard Home)](https://github.com/your-github-username/dns-filtering)** – Network-wide ad-blocking and DNS privacy solution.  
+- 🔹 **[Infrastructure as Code (IaC) with Terraform](https://github.com/your-github-username/terraform-infra)** – Automated infrastructure provisioning on cloud (AWS/Azure).  
+- 🔹 **[Proxmox Server](https://github.com/your-github-username/proxmox-server)** – Self-hosted virtualization and container orchestration platform.  
+- 🔹 **[Matrix/Element Server](https://github.com/your-github-username/matrix-server)** – Secure decentralized chat & collaboration platform.  
+- 🔹 **[XMPP/Jabber Server](https://github.com/your-github-username/xmpp-server)** – Lightweight instant messaging service.  
+- 🔹 **[VoIP Server](https://github.com/your-github-username/voip-server)** – Self-hosted VoIP and SIP server.  
+- 🔹 **[Private LLM Hosting](https://github.com/your-github-username/private-llm)** – Hosting open-source LLMs (like Deepseek) privately.  
+- 🔹 **[Personal Knowledge Base](https://github.com/your-github-username/knowledge-base)** – Wiki-style documentation system for notes and research.  
+
 
 ---
 
