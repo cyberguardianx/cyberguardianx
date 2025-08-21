@@ -1,98 +1,68 @@
+# 👋 Hi, I'm Rohit Saini  
 
-# Hello, I'm Rohit Saini
-<a href="https://www.linkedin.com/in/rohitsaini-cyberguardian/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/r/p/CyberGuardianx"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
-<a href="https://app.letsdefend.io/user/cyberguardianx"><img src="https://img.shields.io/badge/-Let's%20Defend-0A4D8D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAw0lEQVQ4T6WT0Q2DMBRF37dhEkicEIisIGEk6gwBDgECo8AEHoNiNF4g5ACFZ8ApGQJlTCx5v7I3efw03e29bGfbzMUtKnwoJfQX3BAvsAvYP4AcyzAbmgI+AT3ADWgXNfxeBoA8+SM0FlYBzdyiBYGg5JmC1GuGbgAeGuLGQ9oA3CBwDJ8V6GdpH6X0CtbnG9uTv9E/ybU5AzHgPOQQuYAuwEGoVuK+Y82ctJPLTHDAAAAABJRU5ErkJggg==&logoColor=white" /></a>
+💻 **Linux Administrator | Automation Engineer | DevOps Enthusiast**  
 
-I am an undergraduate student currently pursuing a Bachelor's in Computer Applications, specializing in Cloud and Security. I have a profound interest in technology and a strong dedication to solving complex problems, helping individuals and companies achieve their goals.
+Passionate about managing large-scale Linux environments, automating repetitive tasks, and building efficient infrastructure. I love scripting, system monitoring, and creating solutions that save time and reduce errors.  
 
-## Objective
+---
 
-To leverage my experience in IT support and ongoing education in Cloud and Security to contribute effectively in a cybersecurity role. I aim to utilize my problem-solving skills and technical knowledge to enhance security measures, safeguard data, and support the technology goals of the organization.
+## 🚀 About Me  
+- 🔧 Experienced in **Linux Administration (Debian, RHEL, Ubuntu, CentOS)**  
+- ⚡ Skilled in **Bash, Python, PowerShell, and Ansible** for automation  
+- ☁️ Familiar with **Docker, Kubernetes, and CI/CD pipelines**  
+- 🔒 Interested in **system security & hardening**  
+- 📈 Constantly learning new tools and technologies to improve efficiency  
 
+---
 
-## Projects
+## 🛠️ Tech Stack & Tools  
 
-| Projects Name                                        |     Status         |  Completion Date  | Associated Project link                                                                    |
-|------------------------------------------------------|--------------------|-------------------|---------------------------------------------------------------------|
-| Audit                                                |    🚧 In Progress |     31/02/2025     | <a href="https://github.com/cyberguardianx/Portfolio/tree/main/Audit"> Project Details </a> |
-| Intrusion Detection & Prevention                     |    📝 Planned     |     30/04/2025     | <a href="  ">Project Details</a>|
-| Web Application Security                             |    📝 Planned     |     31/07/2025     | <a href="  ">Project Details</a>|
-| EDR Deployment                                       |    📝 Planned     |     31/09/2025     | <a href="  ">Project Details</a>|
-| Threat Hunting                                       |    📝 Planned     |     31/12/2025     | <a href="  ">Project Details</a>|
-
-
-
-
-## Skills
-
-### IT & Networking
-<div>  
-    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0097C1?style=for-the-badge&logo=Cisco&logoColor=white" />
-</div>
-
-### Virtualization Tools
+### Operating Systems
 <div>
-    <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hyper%20V-0082FC?style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+    <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
 </div>
 
-### Cloud Platforms
+### Automation & Scripting
 <div>
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 </div>
 
-### Network Security & Monitoring Tools
+### DevOps & Cloud
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-FF0000?style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-</div>
-    
-### Firewall & Network Protection Solutions
-<div>
-    <img src="https://img.shields.io/badge/-Fortinet-DA291C?style=for-the-badge&logo=Fortinet&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-007EC6?style=for-the-badge&logo=Palo-Alto-Networks&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sophos-1D7BFF?style=for-the-badge&logo=Sophos&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </div>
 
-### Endpoint Protection & Response (EDR)
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>  
+
+---
+
+## 📂 Featured Projects  
+- 🔹 **[Automation Scripts](https://github.com/your-github-username/automation-scripts)** – Bash, PowerShell & Python scripts for Linux/Windows administration.  
+- 🔹 **[Ansible Playbooks](https://github.com/your-github-username/ansible-playbooks)** – Pre-configured automation playbooks.  
+- 🔹 **[Monitoring Setup](https://github.com/your-github-username/monitoring-setup)** – Tools and configs for system monitoring.  
+
+---
+
+## 📫 Connect with Me  
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SentinelOne-0033CC?style=for-the-badge&logo=SentinelOne&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CrowdStrike%20Falcon-E95723?style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+    <a href="https://www.linkedin.com/in/rohitsaini-cyberguardian/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/cyberguardianx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:rohitsainius0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-### Security Information and Event Management (SIEM)
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-IBM%20QRadar-1F70C1?style=for-the-badge&logo=IBM&logoColor=white" />
-</div>
+---
 
-### Programming and Scripting
-<div>
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-</div>
-
-### Security Frameworks and Standards
-<div>
-    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-005DAA?style=for-the-badge&logo=MITRE&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NIST%20CSF-5A6978?style=for-the-badge&logo=NIST&logoColor=white" />
-</div>
-
-
-## Certifications
-<div>
-    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Jetking%20Certificate-005B99?style=for-the-badge&logo=Jetking&logoColor=white" />
-</div>
+✨ *“Automate everything you can, secure everything you must.”* ✨
