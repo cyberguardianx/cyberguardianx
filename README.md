@@ -10,7 +10,7 @@ Passionate about managing large-scale Linux environments, automating repetitive 
 
 - 🔧 Experienced in Linux Administration (Debian, RHEL, CentOS)
 - ⚡ Proficient in Bash, Python, PowerShell, and Ansible for automation and scripting
-- ☁️ Hands-on with AWS, Azure, GCP, Proxmox, KVM, Docker, Kubernetes, and CI/CD pipelines
+- ☁️ Hands-on with AWS, Azure, Proxmox, KVM, Docker, Kubernetes, and CI/CD pipelines
 - 🔒 Strong focus on system security, hardening, and compliance
 - 📈 Continuously learning and adapting to new tools and technologies 
 
@@ -23,10 +23,10 @@ Passionate about managing large-scale Linux environments, automating repetitive 
 **Scripting & Programming**: ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Automation & DevOps**: ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
- ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+ ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 
-**Cloud & Virtualization**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white) ![KVM](https://img.shields.io/badge/KVM-000000?style=flat&logo=linux&logoColor=white)  
+**Cloud & Virtualization**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white) ![KVM](https://img.shields.io/badge/KVM-000000?style=flat&logo=linux&logoColor=white)  
 
 **Monitoring & Logging**: ![Cacti](https://img.shields.io/badge/Cacti-5AA454?style=flat&logo=cacti&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=flat&logo=zabbix&logoColor=white)  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![ELK](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white)  
 
@@ -67,7 +67,6 @@ Passionate about managing large-scale Linux environments, automating repetitive 
 
 ### 🔵 Advanced Projects (Self-Hosted Infrastructure)  
 - 🔹 **[Proxmox Server](https://github.com/your-github-username/proxmox-server)** – Virtualization and container orchestration using Proxmox & KVM.  
-- 🔹 **[Infrastructure as Code with Terraform](https://github.com/your-github-username/terraform-infra)** – Automated infrastructure provisioning on AWS/Azure/Google Cloud.  
 - 🔹 **[Private VPN & Proxy Server](https://github.com/your-github-username/vpn-proxy-server)** – Secure VPN and proxy for Debian/Red Hat servers.  
 - 🔹 **[Cloud Storage (Nextcloud/OwnCloud)](https://github.com/your-github-username/cloud-storage)** – Self-hosted file sync with Docker and Ansible automation.  
 
