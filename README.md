@@ -42,6 +42,7 @@ My goal is to build reliable, scalable, and secure environments while automating
 ## 📂 Featured Projects  
 
 ### 🟢 Foundation Projects  
+- 🔹 **[linux-admin-projects](https://github.com/cyberguardianx/linux-admin-projects)** – Showcase my linux skills and some custom made config files. 
 - 🔹 **[Automation Scripts](https://github.com/cyberguardianx/automation-scripts)** – Bash, PowerShell & Python scripts for Debian/Red Hat/Windows/macOS administration.  
 - 🔹 **[User & Group Management Automation](https://github.com/cyberguardianx/user-group-automation)** – Automating user creation, permissions, and SSH key distribution.  
 - 🔹 **[Linux Hardening Scripts](https://github.com/cyberguardianx/linux-hardening)** – Security scripts and playbooks for SSH hardening, firewall rules, and log rotation.  
