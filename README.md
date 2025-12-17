@@ -41,37 +41,11 @@ My goal is to build reliable, scalable, and secure environments while automating
 
 ## 📂 Featured Projects  
 
-### 🟢 Foundation Projects  
-- 🔹 **[Linux-admin-projects](https://github.com/cyberguardianx/linux-admin-projects)** – Showcase my linux skills and some custom made config files. 
-- 🔹 **[Automation Scripts](https://github.com/cyberguardianx/automation-scripts)** – Bash, PowerShell & Python scripts for Debian/Red Hat/Windows/macOS administration.  
-- 🔹 **[User & Group Management Automation](https://github.com/cyberguardianx/user-group-automation)** – Automating user creation, permissions, and SSH key distribution.  
-- 🔹 **[Linux Hardening Scripts](https://github.com/cyberguardianx/linux-hardening)** – Security scripts and playbooks for SSH hardening, firewall rules, and log rotation.  
-- 🔹 **[Automated Backup System](https://github.com/cyberguardianx/backup-system)** – Automated local and remote backup & restore using Rsync/cron.  
+### ☁️ Cloud Project
 
----
+### 🔐 Cyber Security Projects
 
-### 🟡 Intermediate Projects  
-- 🔹 **[Cloud Infrastructure with Terraform](https://github.com/cyberguardianx/terraform-cloud-infra)** – AWS & Azure infrastructure provisioning.  
-- 🔹 **[Containerized Application Deployment](https://github.com/cyberguardianx/containerized-deployment)** – Deploying applications with Docker & Kubernetes.  
-- 🔹 **[System Monitoring with Prometheus & Grafana](https://github.com/cyberguardianx/prometheus-grafana-monitoring)** – Monitoring Linux servers and services.  
-- 🔹 **[Log Management with ELK Stack](https://github.com/cyberguardianx/elk-stack-logging)** – Centralized log collection and analysis.  
-- 🔹 **[Zabbix & Cacti Monitoring](https://github.com/cyberguardianx/zabbix-cacti-monitoring)** – Server & network monitoring dashboards.  
-
----
-
-### 🔵 Advanced Projects (Self-Hosted Infrastructure)  
-- 🔹 **[Proxmox Server](https://github.com/cyberguardianx/proxmox-server)** – Virtualization and container orchestration with Proxmox & KVM.  
-- 🔹 **[Private VPN & Proxy Server](https://github.com/cyberguardianx/vpn-proxy-server)** – Secure VPN and proxy setup for Linux servers.  
-- 🔹 **[Cloud Storage (Nextcloud/OwnCloud)](https://github.com/cyberguardianx/cloud-storage)** – Self-hosted file sync with Docker and Ansible automation.  
-
----
-
-### 🔴 Expert-Level Projects (Enterprise & Security)  
-- 🔹 **[Intrusion Detection System (IDS)](https://github.com/cyberguardianx/intrusion-detection)** – Host & network intrusion detection using Snort/Suricata.  
-- 🔹 **[DNS-over-HTTPS/TLS Resolver](https://github.com/cyberguardianx/dns-filtering)** – Network-wide DNS filtering & privacy protection.  
-- 🔹 **[Enterprise Firewall Automation](https://github.com/cyberguardianx/firewall-automation)** – Automating Fortinet & Palo Alto firewall rules.  
-- 🔹 **[SIEM with Splunk](https://github.com/cyberguardianx/splunk-siem)** – Centralized security event management & monitoring.  
-
+### 🌍 Other Project
 ---
 
 ## 📫 Connect with Me  
