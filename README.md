@@ -1,60 +1,247 @@
-# 👋 Hi, I'm Rohit Saini  
+# 👋 Hi, I'm Rohit Saini
 
-💻 **Linux Administrator | Cloud & Security Enthusiast**  
+## 💻 IT Support → DevOps → Cloud → Cloud Security
 
-I’m passionate about system administration, cloud infrastructure, and security best practices.  
-My goal is to build reliable, scalable, and secure environments while automating everything possible.   
+I'm an IT Support professional transitioning into **DevOps Engineering**, with a long-term goal of specializing in **Cloud Engineering and Cloud Security**.
 
----
+My current technical foundation includes **Linux, Bash scripting, Git, and GitHub**, and I'm progressively building my knowledge of cloud infrastructure, automation, CI/CD, containers, and security.
 
-## 🚀 About Me  
-
-- 🔧 Experienced in Linux Administration (Debian, RHEL, CentOS)  
-- ⚡ Proficient in Bash, Python, and PowerShell for automation and scripting  
-- ☁️ Hands-on with AWS, Azure, Proxmox, KVM, and containerization (Docker, Kubernetes)  
-- 🔒 Strong focus on system security, hardening, and compliance  
-- 📈 Continuously learning and adapting to new tools and technologies  
+I use GitHub to document what I learn by **building practical projects, automating tasks, solving infrastructure problems, and documenting my approach**.
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🧭 My Career Roadmap
 
-**Operating Systems**: ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=red-hat&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)  
+```text
+IT Support
+     │
+     ▼
+DevOps Engineer
+     │
+     ▼
+Cloud Engineer
+     │
+     ▼
+Cloud Security Engineer
+```
 
-**Scripting & Programming**: ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+My immediate goal is to become a **DevOps Engineer**.
 
-**Cloud & Virtualization**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white) ![KVM](https://img.shields.io/badge/KVM-000000?style=flat&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-
-**Monitoring & Logging**: ![Cacti](https://img.shields.io/badge/Cacti-5AA454?style=flat&logo=cacti&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=flat&logo=zabbix&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![ELK](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white)  
-
-**Security Tools**: ![Fortinet](https://img.shields.io/badge/FortiGate-EE3124?style=flat&logo=fortinet&logoColor=white) ![Palo Alto](https://img.shields.io/badge/Palo%20Alto-007C92?style=flat&logo=palo-alto-networks&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat&logo=nmap&logoColor=white)  
+After developing strong DevOps fundamentals, I plan to specialize further in **Cloud Engineering**, followed by **Cloud Security**.
 
 ---
 
-## 📊 GitHub Stats  
+## 🛠️ Current Skills
+
+### 🐧 Linux
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+
+* Linux administration
+* Users & groups
+* File permissions
+* Package management
+* SSH
+* Processes & services
+* System troubleshooting
+* Basic networking
+* System monitoring
+
+### 🐚 Bash
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat\&logo=gnu-bash\&logoColor=white)
+
+* Bash scripting
+* System administration automation
+* File and directory automation
+* Log processing
+* Process management
+* Task automation
+
+### 🔀 Git & GitHub
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+
+* Git fundamentals
+* Branching
+* Merging
+* Pull requests
+* Repository management
+* Version control
+* GitHub workflows
+* Technical documentation
+
+---
+
+## 💼 IT Support Foundation
+
+My current IT support experience has given me practical exposure to:
+
+* Technical troubleshooting
+* System administration
+* User support
+* Hardware and software troubleshooting
+* Networking fundamentals
+* Incident resolution
+* Root-cause analysis
+* Technical documentation
+
+I'm using this foundation as the starting point for my transition into infrastructure and DevOps engineering.
+
+---
+
+# 🚀 What I'm Learning Next
+
+## Phase 1 — DevOps Engineering
+
+**Current focus**
+
+* Linux
+* Networking
+* Git & GitHub
+* AWS fundamentals
+* Python
+* Docker
+* CI/CD
+* Terraform
+* Ansible
+* Kubernetes
+* Monitoring & observability
+
+### Goal
+
+Build and operate automated infrastructure and deployment pipelines.
+
+---
+
+## Phase 2 — Cloud Engineering
+
+After establishing strong DevOps fundamentals, I'll deepen my focus on:
+
+* AWS architecture
+* Cloud networking
+* Compute
+* Storage
+* Databases
+* IAM
+* High availability
+* Scalability
+* Infrastructure as Code
+* Cloud architecture
+
+### Goal
+
+Design, deploy, and operate reliable and scalable cloud infrastructure.
+
+---
+
+## Phase 3 — Cloud Security
+
+My long-term specialization will be cloud security.
+
+Areas I plan to develop:
+
+* IAM & least privilege
+* Cloud network security
+* Identity security
+* Infrastructure security
+* Container security
+* Secrets management
+* Security monitoring
+* Vulnerability management
+* Secure CI/CD
+* DevSecOps
+* Cloud compliance
+
+### Goal
+
+Design and operate cloud environments with security built into the infrastructure and development lifecycle.
+
+---
+
+# 📂 Projects
+
+I use projects to turn what I learn into practical experience.
+
+### 🐧 Linux & Bash
+
+* Linux administration labs
+* Bash automation
+* System monitoring scripts
+* Log analysis
+* Backup automation
+* User and permission management
+
+### ☁️ Cloud
+
+* AWS infrastructure labs
+* Linux servers on AWS
+* AWS networking projects
+* IAM experiments
+* Cloud automation
+
+### ⚙️ DevOps
+
+Projects coming as I progress:
+
+* Docker applications
+* CI/CD pipelines
+* Terraform infrastructure
+* Configuration management
+* Kubernetes deployments
+* Monitoring and observability
+
+### 🔐 Cloud Security
+
+Long-term projects:
+
+* AWS security labs
+* IAM security
+* Network security
+* Container security
+* Secure CI/CD
+* DevSecOps implementations
+
+---
+
+# 📚 Learning Philosophy
+
+I don't want my GitHub to be a list of technologies I have watched tutorials about.
+
+I want it to show:
+
+**Learn → Build → Break → Troubleshoot → Automate → Document → Improve**
+
+Every major technology I learn will eventually become a practical project or documented experiment.
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyberguardianx&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberguardianx&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</p>  
+</p>
 
 ---
 
-## 📂 Featured Projects  
+# 📫 Connect With Me
 
-### ☁️ Cloud Project
-
-### 🔐 Cyber Security Projects
-
-### 🌍 Other Project
----
-
-## 📫 Connect with Me  
 <div>
-    <a href="https://www.linkedin.com/in/rohitsaini-cyberguardian/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/cyberguardianx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="mailto:rohitsainius0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>  
+    <a href="https://www.linkedin.com/in/rohitsaini-cyberguardian/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/cyberguardianx">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="mailto:rohitsainius0@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+</div>
 
 ---
 
-✨ “Automate. Optimize. Secure.” ✨
+### `Build → Automate → Scale → Secure`
+
+> Documenting my journey from IT Support to DevOps, Cloud Engineering, and eventually Cloud Security.
